@@ -41,7 +41,7 @@ Projects
 - Portfolio Remake
 - Web Application Recreates
 - Javascript GUI (Electron.js)
-- Python GUI (tkinter / cef .kivy)
+- Python GUI (tkinter / cef / kivy)
 
 
 
