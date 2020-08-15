@@ -24,6 +24,7 @@ Soon to be Software Developer
 > React
 > Node.js
 > Python
+> JetBrains 
 ```
 
 > **On List to improve/learn**
@@ -42,6 +43,7 @@ Projects
 - Web Application Recreates
 - Javascript GUI (Electron.js)
 - Python GUI (tkinter / cef / kivy)
+
 
 
 
