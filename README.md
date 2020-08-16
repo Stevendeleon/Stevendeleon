@@ -38,11 +38,14 @@ Projects
 > **Note**:
 >
 > All projects are in progress of being created / recreated
+>
+> Most are Private but will make some available as public
 
 - Portfolio Remake
 - Web Application Recreates
 - Javascript GUI (Electron.js)
 - Python GUI (tkinter / cef / kivy)
+- And many more!
 
 
 
