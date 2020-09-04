@@ -20,7 +20,8 @@ Soon to be Software Developer
 > **Recently Used Technologies**
 > 
 ```
-> Javascript (ES6+) 
+> Javascript (ES6+)
+> Typescript
 > HTML & (S)CSS
 > React.js
 > Node.js
