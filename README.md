@@ -26,7 +26,6 @@ Soon to be Software Developer
 > React.js
 > Node.js
 > Python
-> JetBrains 
 ```
 
 > **On List to improve/learn**
@@ -43,7 +42,7 @@ Projects
 >
 > Most are Private but will make some available as public
 
-- Portfolio Remake
+- Portfolio Remake (Currently rebuilding using React.js)
 - Web Application Recreates
 - Javascript GUI (Electron.js)
 - Python GUI (tkinter / cef / kivy)
