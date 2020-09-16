@@ -21,7 +21,6 @@ Soon to be Software Developer
 > 
 ```
 > Javascript (ES6+)
-> Typescript
 > HTML & (S)CSS
 > React.js
 > Node.js
