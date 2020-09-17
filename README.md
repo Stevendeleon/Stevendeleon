@@ -25,11 +25,12 @@ Soon to be Software Developer
 > React.js
 > Node.js
 > Python
+> SQL
+> Firebase
 ```
 
 > **On List to improve/learn**
 ```
-> C
 > C++
 > Java
 ```
