@@ -8,12 +8,13 @@ My name is <strong>Steven DeLeon</strong> and I am a Web Developer located in Ne
 Current Employment: <strong>Glitnir Ticketing</strong>
 </p>
 <p>
-I enjoy building/designing websites and web applications. I aim for scalable content, responsiveness, and to continue learning new technologies. <br>
-  With proficiency in <strong>Javascript </strong><em> (ES5)</em> I've expanded further into learning Node.js, React.js, Vue.js, and Python
+I enjoy building/designing websites and web applications. I aim for scalable content that is responsive and unique.<br>
+ 
+  With proficiency in <strong>Javascript </strong><em> (ES5/6)</em> I have expanded further into learning Node.js, React.js, Vue.js and Python
+  
 </p>
-<p>
-Soon to be Software Developer
-</p>
+
+<p></p>
 
 
 
