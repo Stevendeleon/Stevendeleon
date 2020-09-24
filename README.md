@@ -9,14 +9,7 @@ Current Employment: <strong>Glitnir Ticketing</strong>
 </p>
 <p>
 I enjoy building/designing websites and web applications. I aim for scalable content that is responsive and unique.<br>
- 
-  With proficiency in <strong>Javascript </strong><em> (ES5/6)</em> I have expanded further into learning Node.js, React.js, Vue.js and Python
-  
 </p>
-
-<p></p>
-
-
 
 > **Recently Used Technologies**
 > 
@@ -26,30 +19,25 @@ I enjoy building/designing websites and web applications. I aim for scalable con
 > React.js
 > Node.js
 > Python
-> SQL
 > Firebase
 ```
 
-> **On List to improve/learn**
+> **What I'm learning Next**
 ```
 > C++
 > Java
 > PHP
 ```
-Projects
---------------------
-> **Note**:
->
-> All projects are in progress of being created / recreated
->
-> Most are Private but will make some available as public
+#### Projects
 
-- Portfolio Remake (Currently rebuilding using React.js)
-- Web Application Recreates
-- Javascript GUI (Electron.js)
-- Python GUI (tkinter / cef / kivy)
-- And many more!
-
+|Name   |   Started|  Doing |  Complete|
+|---|---|---|---|
+|<em>Trello Recreate</em> | -| -| x |
+|<em>Social Media App</em> | -|   -|   -|
+|<em>Twitch Recreate</em> |   -|   -|   -|
+|<em>Spotify Recreate</em> |   -|   -|   -|
+|<em>Slack Recreate</em> |   x|   -|   -|
+|  |   |   |   |
 
 
 
