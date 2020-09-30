@@ -37,7 +37,7 @@ I enjoy building/designing websites and web applications. I aim for scalable con
 |<em>Twitch Recreate</em> |   -|   -|   -|
 |<em>Spotify Recreate</em> |   -|   -|   -|
 |<em>Slack Recreate</em> |   x|   -|   -|
-| <em>Discord Bot</em> |   x|   x|   x|
+| <em>Discord Bot</em> |   -|   -|   x|
 
 
 
