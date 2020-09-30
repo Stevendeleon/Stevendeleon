@@ -32,7 +32,7 @@ I enjoy building/designing websites and web applications. I aim for scalable con
 
 |Name   |   Started|  Doing |  Complete|
 |---|---|---|---|
-|<em>Trello Recreate</em> | -| -| x |
+|<em><a href="https://stevendeleon.github.io/trello-clone/" target="_blank">Trello Recreate</a></em> | -| -| x |
 |<em>Social Media App</em> | -|   -|   -|
 |<em>Twitch Recreate</em> |   -|   -|   -|
 |<em>Spotify Recreate</em> |   -|   -|   -|
