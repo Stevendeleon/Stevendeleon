@@ -24,8 +24,8 @@ I enjoy building/designing websites and web applications. I aim for scalable con
 
 > **What I'm learning Next**
 ```
-> C++
 > Java
+> C++
 > PHP
 ```
 #### Projects
