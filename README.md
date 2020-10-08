@@ -4,6 +4,7 @@ Hello and Welcome!
 <p>
 My name is <strong>Steven DeLeon</strong> and I am a Web Developer located in New York 
 </p>
+<p>Portfolio Website: <a href="stevendeleon.com">Here</a></p>
 <p>
 Current Employment: <strong>Glitnir Ticketing</strong>
 </p>
