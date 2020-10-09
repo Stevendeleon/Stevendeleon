@@ -21,18 +21,19 @@ I enjoy building/designing websites and web applications. I aim for scalable con
 > Node.js
 > Python
 > Firebase
+> PHP
 ```
 
 > **What I'm learning Next**
 ```
+> Deno
 > Java
-> C++
-> PHP
 ```
 #### Projects
 
 |Name   |   Started|  Doing |  Complete|
 |---|---|---|---|
+|<em>Portfolio</em> | x| x| -|
 |<em><a href="https://stevendeleon.github.io/trello-clone/" target="_blank">Trello Recreate</a></em> | -| -| x |
 |<em>Social Media App</em> | x|   x|   -|
 |<em>Twitch Recreate</em> |   -|   -|   -|
