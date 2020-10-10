@@ -31,11 +31,11 @@ I enjoy building/designing websites and web applications. I aim for scalable con
 ```
 #### Projects
 
-|Name   |   Started|  Doing |  Complete|
+|Name   |   Started|  Currently Working on |  Complete|
 |---|---|---|---|
 |<em>Portfolio</em> | x| x| -|
 |<em><a href="https://stevendeleon.github.io/trello-clone/" target="_blank">Trello Recreate</a></em> | -| -| x |
-|<em>Social Media App</em> | x|   x|   -|
+|<em>Social Media App</em> | x|   -|   -|
 |<em>Twitch Recreate</em> |   -|   -|   -|
 |<em>Spotify Recreate</em> |   -|   -|   -|
 |<em>Slack Recreate</em> |   -|   -|   -|
