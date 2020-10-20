@@ -20,14 +20,16 @@ I enjoy building/designing websites and web applications. I aim for scalable con
 > React.js
 > Node.js
 > Python
+> GraphQL
 > Firebase
 > PHP
+> C#
 ```
 
 > **What I'm learning Next**
 ```
-> Deno
-> Java
+> React Native
+> StoryBook
 ```
 #### Projects
 
