@@ -32,10 +32,10 @@ I enjoy building/designing websites and web applications. I aim for scalable con
 
 |Name   |   Started|  Currently Working on |  Complete|
 |---|---|---|---|
-|<em><a href="https://stevendeleon.com">Portfolio</a></em> | -| -| x|
+|<em><a href="https://stevendeleon.com">Portfolio</a></em> | -| x| x|
 |<em><a href="https://stevendeleon.github.io/trello-clone/" target="_blank">Trello Recreate</a></em> | -| -| x |
 |<em><a href="https://reddit-api-theta.vercel.app/" target="_blank">Reddit API</a></em> | -|   -|   x|
-|<em>Social Media App</em> | x|   -|   -|
+|<em>Blog - MERNG</em> | x|   -|   -|
 |<em>Twitch Recreate</em> |   -|   -|   -|
 |<em>Spotify Recreate</em> |   -|   -|   -|
 |<em>Slack Recreate</em> |   -|   -|   -|
