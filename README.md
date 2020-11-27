@@ -25,7 +25,7 @@ I enjoy building/designing websites and web applications. I aim for scalable con
 > GraphQL
 ```
 
-> **What I'm learning Next**
+> **What I want to learn in the future**
 ```
 > Game Development
 ```
