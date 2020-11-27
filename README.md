@@ -17,6 +17,7 @@ I enjoy building/designing websites and web applications. I aim for scalable con
 ```
 > Javascript (ES6+)
 > HTML & (S)CSS
+> TypeScript
 > React.js
 > Node.js
 > Next.js
