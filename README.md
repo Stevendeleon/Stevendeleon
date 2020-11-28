@@ -41,7 +41,7 @@ I enjoy building/designing websites and web applications. I aim for scalable con
 |<em>Twitch Recreate</em> |   -|   -|   -|
 |<em>Spotify Recreate</em> |   -|   -|   -|
 |<em>Slack Recreate</em> |   -|   -|   -|
-|<em>Discord Bot</em> |   -|   -|   x|
+|<em><a href-"https://github.com/Stevendeleon/Jamaican-magic-eightball">Discord Bot</a></em> |   -|   -|   x|
 
 
 
