@@ -6,7 +6,7 @@ My name is <strong>Steven DeLeon</strong> and I am a Web Developer located in Ne
 </p>
 
 <p>
-I Curently work for <strong>Glitnir Ticketing</strong>
+I Currently work for <strong>Glitnir Ticketing</strong>
 </p>
 <p>
 I enjoy building/designing websites and web applications. I aim for scalable content that is responsive and unique.<br>
@@ -15,7 +15,7 @@ I enjoy building/designing websites and web applications. I aim for scalable con
 > **Recently Used Technologies**
 > 
 ```
-> Javascript (ES6+)
+> Javascript (ES5+)
 > HTML & (S)CSS
 > TypeScript
 > React.js
