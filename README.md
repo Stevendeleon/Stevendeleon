@@ -15,7 +15,7 @@ I enjoy building/designing websites and web applications. I aim for scalable con
 > **Recently Used Technologies**
 > 
 ```
-> Javascript (ES5+)
+> Javascript (ES5 & ES6+)
 > HTML & (S)CSS
 > TypeScript
 > React.js
