@@ -17,12 +17,12 @@ I enjoy building/designing websites and web applications. I aim for scalable con
 ```
 > Javascript (ES5 & ES6+)
 > HTML & (S)CSS
-> TypeScript
 > React.js
-> Node.js
-> Next.js
-> Vercel
-> GraphQL
+> Next.JS
+> PHP
+> Prisma
+> PostgresQL
+> SQL
 ```
 
 > **What I want to learn in the future**
@@ -36,7 +36,7 @@ I enjoy building/designing websites and web applications. I aim for scalable con
 |<em><a href="https://stevendeleon.com">Portfolio</a></em> | -| x| x|
 |<em><a href="https://stevendeleon.github.io/trello-clone/" target="_blank">Trello Recreate</a></em> | -| -| x |
 |<em><a href="https://reddit-api-theta.vercel.app/" target="_blank">Reddit API</a></em> | -|   -|   x|
-|<em>Glitnir-Ticketing Redesign</em> | |   x|   -|
+|<em><a href="https://glitnir.vercel.app">Glitnir-Ticketing Redesign</a></em> | |   x|   -|
 |<em>Blog - MERNG</em> | x|   -|   -|
 |<em>Twitch Recreate</em> |   -|   -|   -|
 |<em>Spotify Recreate</em> |   -|   -|   -|
