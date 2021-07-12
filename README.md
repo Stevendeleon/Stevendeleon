@@ -2,7 +2,7 @@ Hello and Welcome!
 ===================
 <br>
 <p>
-My name is <strong>Steven DeLeon</strong> and I am a Web Developer located in New York 
+My name is <strong>Steven DeLeon</strong> and I am a Web Developer located in North Carolina
 </p>
 
 <p>
