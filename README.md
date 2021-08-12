@@ -6,7 +6,7 @@ My name is <strong>Steven DeLeon</strong> and I am a Web Developer located in No
 </p>
 
 <p>
-I Currently work for **NTT Data Services** and **Glitnir Ticketing**.
+  I Currently work for <strong>NTT Data Services</strong> and <strong>Glitnir Ticketing</strong>.
 </p>
 <p>
 I enjoy building/designing websites and web applications. I aim for scalable content that is responsive and unique.<br>
