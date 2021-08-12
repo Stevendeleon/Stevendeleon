@@ -6,7 +6,7 @@ My name is <strong>Steven DeLeon</strong> and I am a Web Developer located in No
 </p>
 
 <p>
-I Currently work for <strong>Glitnir Ticketing</strong>
+I Currently work for **NTT Data Services** and **Glitnir Ticketing**.
 </p>
 <p>
 I enjoy building/designing websites and web applications. I aim for scalable content that is responsive and unique.<br>
@@ -29,37 +29,4 @@ I enjoy building/designing websites and web applications. I aim for scalable con
 ```
 > Game Development
 ```
-#### Projects
 
-|Name   |   Started|  Currently Working on |  Complete|
-|---|---|---|---|
-|<em><a href="https://stevendeleon.com">Portfolio</a></em> | -| x| x|
-|<em><a href="https://stevendeleon.github.io/trello-clone/" target="_blank">Trello Recreate</a></em> | -| -| x |
-|<em><a href="https://reddit-api-theta.vercel.app/" target="_blank">Reddit API</a></em> | -|   -|   x|
-|<em><a href="https://glitnir.vercel.app">Glitnir-Ticketing Redesign</a></em> | |   x|   -|
-|<em>Blog - MERNG</em> | x|   -|   -|
-|<em>Twitch Recreate</em> |   -|   -|   -|
-|<em>Spotify Recreate</em> |   -|   -|   -|
-|<em>Slack Recreate</em> |   -|   -|   -|
-|<em><a href="https://github.com/Stevendeleon/Jamaican-magic-eightball">Discord Bot</a></em> |   -|   -|   x|
-
-
-
-
-<!--
-**Stevendeleon/Stevendeleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
--->
