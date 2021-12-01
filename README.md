@@ -17,12 +17,12 @@ I enjoy building/designing websites and web applications. I aim for scalable con
 ```
 > Javascript (ES5 & ES6+)
 > HTML & (S)CSS
-> React.js
 > Next.JS
 > PHP
 > Prisma
 > PostgresQL
-> SQL
+> Vue.js
+> Nuxt.js
 ```
 
 > **What I want to learn in the future**
