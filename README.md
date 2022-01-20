@@ -6,27 +6,13 @@ My name is <strong>Steven DeLeon</strong> and I am a Web Developer located in No
 </p>
 
 <p>
-  I Currently work for <strong>NTT Data Services</strong> and <strong>Glitnir Ticketing</strong>.
+  I Currently work full-time for <strong>Blue Cross Blue Shield</strong> and part-time for <strong>Glitnir Ticketing</strong>.
 </p>
 <p>
 I enjoy building/designing websites and web applications. I aim for scalable content that is responsive and unique.<br>
 </p>
 
-> **Recently Used Technologies**
-> 
-```
-> Javascript (ES5 & ES6+)
-> HTML & (S)CSS
-> Next.JS
-> PHP
-> Prisma
-> PostgresQL
-> Vue.js
-> Nuxt.js
-```
+<p>
 
-> **What I want to learn in the future**
-```
-> Game Development
-```
-
+For my latest side project, I'm working with Machine Learning and Python to create a "Copilot" for online poker - looking for others to collaborate
+  
