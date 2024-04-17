@@ -17,7 +17,7 @@
 <table>
   <caption>Technologies and Languages I work with daily/often</caption>
   <thead>
-    <th colspan=3>Tools, Technologies and Languages I work with daily/often</th>
+    <th colspan=3>...tbc</th>
   </thead>
   <tbody>
     <tr>
