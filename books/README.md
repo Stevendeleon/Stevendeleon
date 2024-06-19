@@ -11,7 +11,10 @@ My little list of books
 
 * [Meditations - Marcus Aurelius](https://www.goodreads.com/book/show/30659.Meditations)
 * [Who moved my cheese](https://www.goodreads.com/book/show/4894.Who_Moved_My_Cheese_)
-* Modern Poker Theory
+* The Power of Positive Thinking:
+    * [Amazon](https://www.amazon.com/Power-Positive-Thinking-Norman-Vincent/dp/0743234804)
+    * [PDF](https://www.law-of-attraction-haven.com/support-files/the-power-of-positive-thinking.pdf)
+* Modern Poker Theory:
     * [Amazon](https://www.amazon.com/Modern-Poker-Theory-unbeatable-principles/dp/1909457892)
     * [PDF download](https://dokumen.pub/modern-poker-theory-building-an-unbeatable-strategy-based-on-gto-principles-1909457892-9781909457898.html)
  
